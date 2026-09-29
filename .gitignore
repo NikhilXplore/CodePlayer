@@ -1,0 +1,36 @@
+# Project-local generated files
+Asset/
+myenv/
+.vscode/
+.vscode-test/
+.vscodeignore
+node_modules/
+
+# Local notes / scratch / generated docs
+plan.txt
+README.md
+CHANGELOG.md
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+
+# Python cache / virtual env extras
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Node / package manager caches
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test outputs / coverage
+coverage/
+*.lcov
+
+# Keep source/test files tracked if needed
+# test/
